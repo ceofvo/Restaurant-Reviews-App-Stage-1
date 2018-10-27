@@ -1,6 +1,8 @@
 # Restaurant Reviews App
 
 
+
+
 ## Project Overview
 
 In this project I took a restaurant review web app with a static design that lacks accessibility and converted the design to be responsive on different sized displays and accessible for screen reader use. I also added a service worker to begin the process of creating a seamless offline experience for users.
