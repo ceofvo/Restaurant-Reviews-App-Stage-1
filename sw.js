@@ -23,7 +23,6 @@ let cacheFilesAndUrls = [
   "img/10.jpg"
 ];
 
-
 self.addEventListener("install", e => {
   e.waitUntil(
     caches
